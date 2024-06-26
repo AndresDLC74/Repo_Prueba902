@@ -10,6 +10,5 @@ namespace ProyectoTest.Models
         public int IdCarrito { get; set; }
         public Producto oProducto { get; set; }
         public Usuario oUsuario { get; set; }
-        public decimal oPrecio { get; set; }
     }
 }
